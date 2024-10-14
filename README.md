@@ -5,7 +5,7 @@ Café-Quest-Brew-Your-Way-to-Success este un joc de simulare și management care
 Categorie: Simulare
 
 Regulile de joc:
-Acțiuni posibile: Jucătorul poate prepara diverse băuturi pe bază de cafea (espresso, latte, cappuccino etc.), poate interacționa cu clienții pentru a le lua comanda și poate ajusta prețurile, personaliza cafeneaua De asemenea, poate adăuga noi elemente în meniul cafenelei.
+Acțiuni posibile: Jucătorul poate prepara diverse băuturi pe bază de cafea (espresso, latte, cappuccino etc.), poate interacționa cu clienții pentru a le lua comanda și poate ajusta prețurile, personaliza cafeaua. De asemenea, poate adăuga noi elemente în meniul cafenelei.
 
 Obiective: Scopul principal al jocului este de a gestiona cu succes cafeneaua, menținând un flux constant de clienți mulțumiți și maximizând profitul. Jocul se poate termina dacă afacerea dă faliment (pierdere) sau dacă jucătorul ajunge la un succes imens, devenind proprietarul unui lanț global de cafenele (victorie).
 
